@@ -1,0 +1,2 @@
+rootProject.name = "Skele"
+include ':app'
